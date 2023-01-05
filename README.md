@@ -65,7 +65,7 @@ We used Visual studio code to run files. Used micropython and circuitpython.
 <img src="img/Circuiit DiagramOutput2.jpeg" lt="drawing" width="400" height="400">
 
 
-# Porject Video
+# Project Video
 
 [Whole project's video link](https://drive.google.com/drive/u/2/folders/1haNnrMwmfwNZDpgwAixouyjpcdWlav5K) 
 
