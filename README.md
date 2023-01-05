@@ -64,10 +64,16 @@ We used Visual studio code to run files. Used micropython and circuitpython.
 #### Monster Change output
 <img src="img/Circuiit DiagramOutput2.jpeg" lt="drawing" width="400" height="400">
 
+#### Time capturing output
+<img src="img/TimeShowingOutput.png" lt="drawing" width="400" height="400">
+
+
 
 # Project Video
 
-[Whole project's video link](https://drive.google.com/drive/u/2/folders/1haNnrMwmfwNZDpgwAixouyjpcdWlav5K) 
+[Whole Project's video link]( https://drive.google.com/file/d/1JmYetb3inda1CK3g0reNlxwU_8adrqMm/view?usp=sharing) or [Project's videos youtube link](https://youtube.com/shorts/JN3AWQJT3e8)
+
+
 
 # References
 
