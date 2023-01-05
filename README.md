@@ -6,7 +6,7 @@
 - Final Project for [M.Sc. CPS2 Programming Connected Devices course](https://ci.mines-stetienne.fr/cps2/course/pcd/)
 - Based on [Maxime Lefrançois's course](https://ci.mines-stetienne.fr/cps2/course/pcd/#_outline_of_the_lectures)
 
-#GROUP_8
+# GROUP_8
 
 # Project Description
 This project's main idea is to control Adafruit FeatherWing 128x32 OLED  display using by mobile BLE application and nRF52840. After successful connection and successful run when the connection between nrf52 and esp32 establishes the led will be enlightened as a mark that ESP32 and nRF52840 are connected. To test the project we need to install a mobile app "Bluefruit connect"([more information](https://learn.adafruit.com/bluefruit-le-connect)).For the app we need to turn on location and bluetooth of our smartphone. Also we need to turn on our hotspot to see time. After that we need to open the "Bluefruit Connect Application". It will show the CIRCUITPY5acc to connect. After connection, we need to go to controller option. There we will have 4 active buttons 1,2,3 and 4 (though there are 8 buttons, we used 1,2,3,4 buttons for out project). For button press 1, a monster will be shown. More button press on button 1 will move the monster to the right by one step. For button press 2, the monster will move left by one step. For button press 3, the monster will switch into another monster. For button press 4, the date time will be shown periodically like stopwatch. Again button press will show static value. Here we are sending signal to nrf52 and nrf52 sends this signal to ESP32. ESP32 displays actions on the OLED. That's how our project works!
